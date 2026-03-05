@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hola Mundo 👋
+
+- 🔭 Actualmente estoy trabajando en mi portafolio.
+- 🌱 Estoy aprendiendo diseño web.
+- 👯 Busco colaboración como diseñador web o desarrollador.
+- 📫 Encuentrame en:
+-   https://www.marioveloper.com
+-   https://www.linkedin.com/in/mario-luis-martinez/
 
 <!--
 **mario-luis-martinez/mario-luis-martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
