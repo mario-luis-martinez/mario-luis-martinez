@@ -1,23 +1,4 @@
 ## Hola Mundo 👋
-### Soy diseñador y desarrollador web
-- 🔭 Actualmente estoy trabajando en mi portafolio.
-- 🌱 Estoy aprendiendo diseño web.
-- 👯 Busco colaboración como diseñador web o desarrollador.
-- 📫 Encuentrame en:
-   https://www.marioveloper.com
-   https://www.linkedin.com/in/mario-luis-martinez/
-
-<!--
-**mario-luis-martinez/mario-luis-martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy Mario Luis, desarrollador y diseñador web.
+---
+Algunas cosas que he construido:
