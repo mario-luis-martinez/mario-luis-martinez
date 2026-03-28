@@ -1,6 +1,5 @@
 ## Hola Mundo 👋
 
-Soy Mario Luis, desarrollador y diseñador web.<br>
-Puedes visitarme en mi <a target="_blank" href="https://www.marioveloper.com/" >sitio web</a>
+Soy Mario Luis, amo todo lo relacionado con la programación. Llevo más de 10 años escribiendo cógido y desde 2023 haciendo diseño web y SEO.
 
-Algunas cosas que he construido:
+Algunas cosas que he construido son:
